@@ -1,3 +1,3 @@
 **Recettes**
 
-bonjour bienvenue dans ce repo
+bonjour bienvenue dans ce repo et bonne journÃe
